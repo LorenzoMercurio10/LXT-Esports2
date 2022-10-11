@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Cobe";
+  src: url(../../public/Cobe/Cobe_Regular.ttf);
+}
+
+@font-face {
+  font-family: "Cobe-bold";
+  src: url(../../public/Cobe/Cobe-Bold.ttf);
+}
+
+.about-background {
+    background-image: url(../../public/img/sfondo_about.jpg);
+    padding: 35px 50px 0px 0px;
+    background-size: contain;
+  }
+  
+  .about-text {
+    padding: 180px 200px 50px 136px;
+    font-family: "Cobe", sans-serif;
+    font-size: calc(17px + 0.390625vw);
+    color: white;
+  } 
+  @media(max-width:768px) {
+    .about-text {
+      padding: 200px 10px 185px 68px;
+      font-size: calc(17px + 0.390625vw);
+      color: white;
+    } 
+  }
+  @media(min-width:768px) and (max-width:992px) {
+    .about-text {
+      padding: 200px 10px 185px 68px;
+      font-size: calc(17px + 0.390625vw);
+      color: white;
+    } 
+  }
+  @media(min-width:992px) and (max-width:1200px) {
+    .about-text {
+      padding: 200px 10px 185px 68px;
+      font-size: calc(17px + 0.390625vw);
+      color: white;
+    } 
+  }
+  
+  .about-header {
+    font-family: "Cobe-bold", sans-serif;
+    color: #9f0020;
+    font-size: calc(40px + 0.390625vw);
+    }
+
+  .lxt-esports {
+    color: #9f0020;
+    font-family: "Cobe-bold", sans-serif;
+    font-size: calc(21px + 0.390625vw);
+  }
+  
+  .fifa-23 {
+    color: #9f0020;
+    font-size: calc(21px + 0.390625vw);
+    font-family: "Cobe-bold", sans-serif;
+  }
+  
+  .valorant {
+    color: #9f0020;
+    font-family: "Cobe-bold", sans-serif;
+    font-size: calc(21px + 0.390625vw);
+  }

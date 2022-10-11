@@ -1,0 +1,157 @@
+@font-face {
+    font-family: "Cobe";
+    src: url(../../public/Cobe/Cobe_Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "Cobe-bold";
+    src: url(../../public/Cobe/Cobe-Bold.ttf);
+  }
+
+.contact-background {
+    background-image: url(../../public/img/sfondocontact.jpg);
+    padding: 300px 20px 300px 400px;
+    background-size: contain;
+    background-position: center;
+}
+
+.contact-text {
+    font-family: "Cobe-bold", sans-serif;
+    color: white;
+}
+
+.contact-header {
+    font-size: calc(61px + 0.390625vw);
+    color: #9f0020;
+    font-weight: bold;
+}
+
+
+.contact-info {
+    font-size: calc(40px + 0.390625vw);
+    font-weight: bold;
+}
+
+.contact-socials {
+    padding-top: 15px;
+}
+
+.contact-policy {
+    padding-top: 15px;
+    color: white;
+}
+
+.policy {
+    text-decoration: none;
+    color: #9f0020;
+}
+
+.policy:hover {
+    color: white;
+}
+
+.instagram {
+    padding-right: 10px;
+}
+
+.twitter {
+    padding-right: 10px;
+}
+
+.twitch {
+    padding-right: 10px;
+}
+
+.tiktok {
+    padding-right: 10px;
+}
+
+.mail {
+    font-size: calc(20px + 0.390625vw);
+    font-weight: 300;
+}
+
+.form-contact {
+    color: white;
+    font-family: "Cobe", sans-serif;
+    font-weight: bolder;
+}
+
+.button-contact {
+    background-color: #9f0020;
+    border: none;
+}
+
+.button-contact:hover {
+    background-color: white;
+    border: none;
+}
+
+.colore:hover {
+    color: #9f0020;
+}
+
+
+
+@media(max-width:768px) {
+    .contact-background {
+        padding: 100px 20px 100px 100px;
+        background-size: contain;
+        background-position: center;
+    }
+    .form-contact {
+        color: white;
+        font-weight: bolder;
+        padding-top: 100px;
+    }
+  } 
+  
+  @media(min-width:768px) and (max-width:992px) {
+    .contact-background {
+        padding: 100px 20px 100px 100px;
+        background-size: contain;
+        background-position: center;
+    }
+    .form-contact {
+        color: white;
+        font-weight: bolder;
+        padding-top: 100px;
+    }
+    } 
+  
+  @media(min-width:992px) and (max-width:1200px) {
+    .contact-background {
+        padding: 100px 20px 100px 100px;
+        background-size: contain;
+        background-position: center;
+    }
+    .form-contact {
+        color: white;
+        font-weight: bolder;
+        padding-top: 100px;
+    }
+  }
+  
+  @media(min-width:1200px) and (max-width:1500px) {
+    .contact-background {
+        padding: 100px 20px 100px 100px;
+        background-size: contain;
+        background-position: center;
+    }
+    .form-contact {
+        color: white;
+        font-weight: bolder;
+        padding-top: 100px;
+    }
+  }
+  
+.org-text {
+    margin: 0px 0px 0px 0px;
+    font-family: "Cobe", sans-serif;
+  }
+  
+  .org {
+    color: #9f0020;
+    margin: 0px 0px 0px 0px;
+  }
+  

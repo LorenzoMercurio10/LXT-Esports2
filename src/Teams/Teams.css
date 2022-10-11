@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "Cobe";
+  src: url(../../public/Cobe/Cobe_Regular.ttf);
+}
+
+@font-face {
+  font-family: "Cobe-bold";
+  src: url(../../public/Cobe/Cobe-Bold.ttf);
+}
+
+.teams-block {
+    background-image: url(../../public/img/sfondo_team.jpg); 
+    padding: 150px 100px 50px 100px;
+    background-size: contain;
+    background-position: center;
+  
+  }
+  
+  .teams-nav {
+    font-family: "Cobe-bold", sans-serif;
+    color: white;
+  }
+  
+  .rocket-league-players {
+    transition: opacity 1.5s;
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .no-visibility {
+    display: none;
+    opacity: 0;
+  }
+  
+  .fifa-players {
+    transition: opacity 1.5s;
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .team-header {
+    font-size: calc(65px + 0.390625vw);
+    font-weight: 1000;
+    text-align: center;
+  }
+  
+  .foto-white-fifa {
+    padding: 0px 20px 0px 0px;
+  }
+
+  .card-logo {
+    padding: 100px 0px 120px 150px;
+  }
+  
+  @media(max-width:768px) {
+    .card-logo {
+      padding: 100px 0px 0px 50px;
+    }
+    .card3-4 {
+      padding: 50px 0px 0px 0px; 
+    }
+    .teams-nav {
+      font-family: "Cobe-bold", sans-serif;
+      color: white;
+      padding: 0px 0px 0px 0px;
+    }
+  } 
+  
+  @media(min-width:768px) and (max-width:992px) {
+    .card-logo {
+      padding: 100px 0px 120px 60px;
+    }
+    .card3-4 {
+      padding: 50px 0px 0px 0px; 
+    }
+    } 
+  
+  @media(min-width:992px) and (max-width:1200px) {
+    .card-logo {
+      padding: 100px 0px 120px 100px;
+    }
+    .card3-4 {
+      padding: 50px 10px 120px 100px 
+    }
+  }
+  
+  @media(min-width:1200px) and (max-width:1500px) {
+    .card-logo {
+      padding: 100px 0px 120px 100px;
+    }
+    .card3-4 {
+      padding: 50px 10px 120px 100px 
+    }
+  }
+  
+  .player1-fifa {
+    border: 4px solid black;
+  }
+  
+  .player2-fifa {
+    display: flex;
+    border: 4px solid black;
+  }
+
+  .name-player1-fifa {
+    display: flex;
+    font-size: 32px;
+    font-family: "Cobe", sans-serif;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .role-player1-fifa {
+    font-family: "Cobe", sans-serif;
+    color: white;
+    font-weight: 600;
+  }
+  
+  .name-player2-fifa {
+    display: flex;
+    font-family: "Cobe", sans-serif;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .socials-player1-fifa {
+    display: flex;
+    padding-top: 5px
+  }
+  
+  .player-instagram {
+    padding-right: 15px;
+  }

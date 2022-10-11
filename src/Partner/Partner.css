@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Cobe";
+    src: url(../../public/Cobe/Cobe_Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "Cobe-bold";
+    src: url(../../public/Cobe/Cobe-Bold.ttf);
+  }
+
+  .partners {
+    background-image: url(../../public/img/sfondo_team.jpg); 
+    padding: 100px 0px 200px 0px;
+    background-size: contain;
+    color: white;
+    font-family: "Cobe-bold", sans-serif;
+    background-position: center;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .header-partners {
+    font-size: calc(46px + 0.390625vw);
+    padding: 40px 0px 40px 800px;
+  }
+
+.ask {
+  position: absolute;
+  padding: 200px 1800px 0px 0px;
+}
+
+.lexant {
+  position: absolute;
+  padding: 200px 1100px 0px 0px;
+}
+
+.lino-sonego {
+  position: absolute;
+  padding: 200px 350px 0px 0px;
+}
+
+.oies {
+  position: absolute;
+  padding: 200px 0px 0px 480px;
+}
+
+.proodos {
+  position: absolute;
+  padding: 200px 0px 0px 1050px;
+}

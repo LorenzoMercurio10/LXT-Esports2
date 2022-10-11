@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Cobe";
+    src: url(../../public/Cobe/Cobe_Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "Cobe-bold";
+    src: url(../../public/Cobe/Cobe-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: "Cobe-light";
+    src: url(../../public/Cobe/Cobe-Light.ttf);
+  }
+
+.blog-background {
+    background-image: url(../../public/img/sfondo_about.jpg);
+    padding: 35px 50px 0px 0px;
+    background-size: contain;
+}
+
+.description {
+    font-family: "Cobe-light", sans-serif;
+    color: whitesmoke;
+}
+
+.articles {
+    padding: 150px 0px 100px 50px;
+}
+
+.header {
+    color: #9f0020;
+    padding: 50px 0px 50px 10px;
+    font-size: calc(46px + 0.390625vw);
+    font-family: "Cobe-bold", sans-serif;
+    font-weight: bolder;
+}
+
+.singolo {
+    text-decoration: none;
+    color: white;
+    font-size: calc(32px + 0.390625vw);
+    font-family: "Cobe-bold", sans-serif;
+}
+
+.singolo:hover {
+  color: #9f0020;
+}
