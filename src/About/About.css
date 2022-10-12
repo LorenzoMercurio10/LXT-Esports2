@@ -10,7 +10,7 @@
 
 .about-background {
     background-image: url(../../public/img/sfondo_about.jpg);
-    padding: 35px 50px 0px 0px;
+    padding: 35px 50px 100px 0px;
     background-size: contain;
   }
   
@@ -22,7 +22,7 @@
   } 
   @media(max-width:768px) {
     .about-text {
-      padding: 200px 10px 185px 68px;
+      padding: 200px 10px 5px 68px;
       font-size: calc(17px + 0.390625vw);
       color: white;
     } 

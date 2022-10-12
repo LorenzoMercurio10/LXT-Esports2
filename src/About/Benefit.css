@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Cobe";
+    src: url(../../public/Cobe/Cobe_Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "Cobe-bold";
+    src: url(../../public/Cobe/Cobe-Bold.ttf);
+  }
+  
+.benefit-background {
+    background-image: url(../../public/img/sfondo_team.jpg);
+    padding: 0px 50px 50px 0px;
+    background-size: contain;
+}
+    
+.ask-benefit {
+    font-family: "Cobe-bold", sans-serif;
+    font-size: calc(25px + 0.390625vw);
+    color: white;
+}
+
+.benefit-text {
+padding: 150px 200px 100px 136px;
+font-family: "Cobe", sans-serif;
+font-size: calc(17px + 0.390625vw);
+color: white;
+} 
+
+@media(max-width:768px) {
+    .benefit-text {
+    padding: 100px 10px 105px 68px;
+    font-size: calc(17px + 0.390625vw);
+    color: white;
+    } 
+}
+@media(min-width:768px) and (max-width:992px) {
+    .benefit-text {
+    padding: 100px 10px 105px 68px;
+    font-size: calc(17px + 0.390625vw);
+    color: white;
+    } 
+}
+@media(min-width:992px) and (max-width:1200px) {
+    .benefit-text {
+    padding: 200px 10px 105px 68px;
+    font-size: calc(17px + 0.390625vw);
+    color: white;
+    } 
+}
+
+.benefit-header {
+    font-family: "Cobe-bold", sans-serif;
+    color: white;
+    font-size: calc(40px + 0.390625vw);
+    }

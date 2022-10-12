@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Cobe";
+    src: url(../../public/Cobe/Cobe_Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "Cobe-bold";
+    src: url(../../public/Cobe/Cobe-Bold.ttf);
+  }
+  
+  .academy-background {
+      background-image: url(../../public/img/sfondo_about.jpg);
+      padding: 35px 50px 100px 0px;
+      background-size: contain;
+    }
+  
+  .name-ask {
+    color: #9f0020;
+    font-size: calc(21px + 0.390625vw);
+    font-family: "Cobe-bold", sans-serif;
+  }
+
+  .link-ask {
+    text-decoration: none;
+    color: #9f0020;
+  }
+
+  .link-ask:hover {
+    text-decoration: none;
+    color: #9f0020;
+  }
+
+  .link-ask-info {
+    color: #9f0020;
+    font-size: calc(21px + 0.390625vw);
+  }
+   
+  .link-ask-info:hover {
+    color: white;
+  }
+    .academy-text {
+      padding: 180px 200px 50px 136px;
+      font-family: "Cobe", sans-serif;
+      font-size: calc(17px + 0.390625vw);
+      color: white;
+    } 
+    @media(max-width:768px) {
+      .academy-text {
+        padding: 200px 10px 85px 68px;
+        font-size: calc(17px + 0.390625vw);
+        color: white;
+      } 
+    }
+    @media(min-width:768px) and (max-width:992px) {
+      .academy-text {
+        padding: 200px 10px 185px 68px;
+        font-size: calc(17px + 0.390625vw);
+        color: white;
+      } 
+    }
+    @media(min-width:992px) and (max-width:1200px) {
+      .academy-text {
+        padding: 200px 10px 185px 68px;
+        font-size: calc(17px + 0.390625vw);
+        color: white;
+      } 
+    }
+    
+    .academy-header {
+      font-family: "Cobe-bold", sans-serif;
+      color: #9f0020;
+      font-size: calc(40px + 0.390625vw);
+      }

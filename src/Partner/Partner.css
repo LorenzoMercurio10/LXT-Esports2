@@ -22,31 +22,31 @@
     font-size: calc(46px + 0.390625vw);
     padding: 40px 0px 40px 800px;
   }
-
+/* 
 .ask {
   position: absolute;
   padding: 200px 1800px 0px 0px;
 }
 
 .lexant {
-  position: absolute;
+  position: absolute; 
   padding: 200px 1100px 0px 0px;
 }
 
 .lino-sonego {
-  position: absolute;
+  position: absolute; 
   padding: 200px 350px 0px 0px;
 }
 
 .oies {
-  position: absolute;
+  position: absolute; 
   padding: 200px 0px 0px 480px;
-}
+} 
 
 .proodos {
-  position: absolute;
+  position: absolute; 
   padding: 200px 0px 0px 1050px;
-}
+} */
 
 @media(max-width:768px) {
   .partners {

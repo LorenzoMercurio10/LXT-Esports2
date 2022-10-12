@@ -52,6 +52,14 @@
     margin-left: 20px;
 }
 
+#nav-dropdown-about {
+    color: white;
+}
+
+#nav-dropdown-teams {
+    color: white;
+}
+
 .about:hover {
     outline: 1px solid #9f0020;
     font-family: "Cobe-bold", sans-serif;
