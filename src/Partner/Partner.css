@@ -47,3 +47,73 @@
   position: absolute;
   padding: 200px 0px 0px 1050px;
 }
+
+@media(max-width:768px) {
+  .partners {
+    padding: 100px 0px 600px 0px;
+  }
+
+  .header-partners {
+    font-size: calc(60px + 0.390625vw);
+    padding: 40px 0px 40px 80px;
+  }
+
+  .ask {
+    padding: 120px 0px 0px 50px;
+  }
+  
+  .lexant {
+    padding: 240px 0px 0px 50px;
+  }
+  
+  .lino-sonego {
+    padding: 360px 0px 0px 50px;
+  }
+  
+  .oies {
+    padding: 480px 0px 0px 50px;
+  }
+  
+  .proodos {
+    padding: 600px 0px 0px 50px;
+  }
+} 
+
+@media(min-width:768px) and (max-width:992px) {
+  .partners {
+    padding: 100px 0px 600px 0px;
+  }
+
+  .header-partners {
+    font-size: calc(60px + 0.390625vw);
+    padding: 40px 0px 40px 430px;
+  }
+
+  .ask {
+    padding: 120px 0px 0px 50px;
+  }
+  
+  .lexant {
+    padding: 240px 0px 0px 50px;
+  }
+  
+  .lino-sonego {
+    padding: 360px 0px 0px 50px;
+  }
+  
+  .oies {
+    padding: 480px 0px 0px 50px;
+  }
+  
+  .proodos {
+    padding: 600px 0px 0px 50px;
+  }
+  } 
+
+@media(min-width:992px) and (max-width:1200px) {
+  
+}
+
+@media(min-width:1200px) and (max-width:1500px) {
+  
+}
