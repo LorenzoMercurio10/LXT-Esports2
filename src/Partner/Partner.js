@@ -6,8 +6,8 @@ function Partner() {
     <section id="partner">
         <div className="partner-background">
             <div className="row justify-content-center partners">
-                <h1 className="header-partners">PARTNERS</h1>
-                    <div className="col-xs-12 col-md-4 ask">
+               <h1 className="header-partners">PARTNERS</h1>
+            {/*         <div className="col-xs-12 col-md-4 ask">
                         <img src="img/ask.png" alt="instagram" height="126" width="375"></img>
                     </div>
                     <div className="col-xs-12 col-md-4 lexant">
@@ -22,9 +22,9 @@ function Partner() {
                     <div className="col-xs-12 col-md-4 proodos">
                         <img src="img/proodos.png" alt="instagram" height="126" width="375"></img>
                     </div>
-                    <div className="col-xs-12 col-md-4 ask-advisor">
+                     <div className="col-xs-12 col-md-4 ask-advisor">
                         <img src="img/askadvisor.png" alt="instagram" height="126" width="585"></img>
-                    </div>
+                    </div> */ }
             </div>
         </div>
     </section>

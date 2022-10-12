@@ -20,7 +20,7 @@
 
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-    padding: 40px 0px 40px 800px;
+    /*padding: 40px 0px 40px 800px; */
   }
 /* 
 .ask {
@@ -55,7 +55,8 @@
 
   .header-partners {
     font-size: calc(60px + 0.390625vw);
-    padding: 40px 0px 40px 80px;
+   padding: 40px 0px 40px 80px; 
+   overflow-x: hidden;
   }
 
   .ask {
