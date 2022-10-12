@@ -53,6 +53,10 @@
   }
   
   @media(max-width:768px) {
+    .teams-block
+    {
+      padding: 150px 100px 50px 52px;
+    }
     .card-logo {
       padding: 100px 0px 0px 15px;
     }
@@ -62,7 +66,10 @@
     .teams-nav {
       font-family: "Cobe-bold", sans-serif;
       color: white;
-      padding: 0px 0px 0px 0px;
+      padding: 0px 0px 0px 23px;
+    }
+    .foto-white-fifa {
+      padding: 0px 20px 0px 31px;
     }
   } 
   
