@@ -53,7 +53,7 @@
   }
 
   .header-partners {
-    font-size: calc(60px + 0.390625vw);
+    font-size: calc(46px + 0.390625vw);
    padding: 40px 0px 40px 35px; 
    overflow-x: hidden;
   }
@@ -91,7 +91,7 @@
   }
 
   .header-partners {
-    font-size: calc(60px + 0.390625vw);
+    font-size: calc(46px + 0.390625vw);
     padding: 40px 0px 40px 300px;
   }
 
@@ -127,7 +127,7 @@
   }
 
   .header-partners {
-    font-size: calc(60px + 0.390625vw);
+    font-size: calc(46px + 0.390625vw);
     padding: 40px 0px 40px 450px;    
   }
 
@@ -165,16 +165,19 @@
   }
 
   .header-partners {
-    font-size: calc(60px + 0.390625vw);
-    padding: 40px 0px 40px 450px;
+    font-size: calc(46px + 0.390625vw);
+    padding: 40px 0px 40px 675px;
   }
   .oies {
     overflow-x: hidden;
   }
 
 }
-
 @media(min-width:1500px) {
+  .header-partners {
+    font-size: calc(46px + 0.390625vw);
+    padding: 40px 0px 40px 675px;
+  }
   .oies {
     overflow-x: hidden;
   }
