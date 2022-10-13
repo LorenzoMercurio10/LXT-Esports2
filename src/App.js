@@ -19,8 +19,8 @@ function App() {
       <Benefit />
       <Blog />
       <Teams />
-      <Academy />
       <Partner />
+      <Academy />
       <Contact />
     </>
   );

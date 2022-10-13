@@ -12,6 +12,7 @@
     background-image: url(../../public/img/sfondo_team.jpg);
     padding: 0px 50px 50px 0px;
     background-size: contain;
+    background-size: cover;
 }
     
 .ask-benefit {

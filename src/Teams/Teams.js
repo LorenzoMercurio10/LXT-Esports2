@@ -18,7 +18,7 @@ function Teams() {
                     </div>
                     <article className='fifa-players'>
                         <div className="row justify-content-center fifa-card">
-                            <div className="col-xs-12 col-md-4 card-logo">
+                            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                                 <img className="player1-fifa" src="img/crazy_pic.jpg" alt="player-1" width="275" height="275"></img>
                                 <div className="nick-player1-fifa">
                                     <span className="name-player1-fifa">Crazyfatgamer</span>
@@ -39,7 +39,7 @@ function Teams() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xs-12 col-md-4 card-logo">
+                            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                                 <img className="player2-fifa" src="img/cipo_picc.jpg" alt="player-2" width="275" height="275"></img>
                                 <div className="nick-player1-fifa">
                                     <span className="name-player1-fifa">Vincenzo Cipolla</span>
@@ -54,7 +54,7 @@ function Teams() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xs-12 col-md-4 card-logo">
+                            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                                 <img className="player2-fifa" src="img/ggilbe_picc.jpg" alt="player-2" width="275" height="275"></img>
                                 <div className="nick-player1-fifa">
                                     <span className="name-player1-fifa">GGilbe</span>

@@ -21,11 +21,11 @@ function CustomNavbar() {
                 <NavDropdown.Item href="#benefit" eventKey="2.2">BENEFIT</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="#blog" className="blog">BLOG</Nav.Link>
-              <NavDropdown title="TEAMS"  className="teams" id="nav-dropdown-teams">
+              <NavDropdown title="LXT"  className="teams" id="nav-dropdown-teams">
                 <NavDropdown.Item href="#teams" eventKey="4.1">TEAMS</NavDropdown.Item>
-                <NavDropdown.Item href="#academy" eventKey="4.2">ACADEMY</NavDropdown.Item>
+                <NavDropdown.Item href="#partner" eventKey="4.2">PARTNERS</NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="#partner" className="partner">PARTNER</Nav.Link>
+              <Nav.Link href="#academy" className="partner">ACADEMY</Nav.Link>
               <Nav.Link href="#contact" className="contact">CONTACT</Nav.Link>
           </Nav>
           <Nav>

@@ -5,7 +5,7 @@ function Benefit() {
     <>
         <section id="benefit">
             <div className="benefit-background">
-                <div className="col-xs-6 col-md-8 benefit-text">
+                <div className="benefit-text">
                     <h1 className="benefit-header">LXT Esport è un team BENEFIT</h1>
                     <p>
                     LXT Esport oltre ad essere un esport team è un asset strategico di ASK Advisory per perseguire le finalità di “beneficio comunque”, operando anche nel mondo del gaming in modo responsabile, sostenibile e trasparente nei confronti di persone, comunità, territori e ambiente, beni e attività culturali e sociali, enti e associazioni e altri portatori di interesse.</p>  

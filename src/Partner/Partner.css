@@ -9,8 +9,8 @@
   }
 
   .partners {
-    background-image: url(../../public/img/sfondo_team.jpg); 
-    padding: 100px 0px 200px 0px;
+    background-image: url(../../public/img/sfondo_about.jpg); 
+    padding: 200px 0px 100px 0px;
     background-size: contain;
     color: white;
     font-family: "Cobe-bold", sans-serif;
@@ -20,101 +20,156 @@
 
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-    /*padding: 40px 0px 40px 800px; */
+    padding: 10px 0px 40px 800px; 
   }
-/* 
-.ask {
-  position: absolute;
-  padding: 200px 1800px 0px 0px;
-}
 
-.lexant {
-  position: absolute; 
-  padding: 200px 1100px 0px 0px;
-}
-
-.lino-sonego {
-  position: absolute; 
-  padding: 200px 350px 0px 0px;
-}
-
-.oies {
-  position: absolute; 
-  padding: 200px 0px 0px 480px;
-} 
-
-.proodos {
-  position: absolute; 
-  padding: 200px 0px 0px 1050px;
-} */
+  .ask {
+    padding-top: 20px;
+  }
+  
+  .lexant {
+    padding-top: 20px;
+  }
+  
+  .lino-sonego {
+    padding-top: 20px;
+  }
+  
+  .oies {
+    padding-top: 20px;
+  } 
+  
+  .proodos {
+    padding-top: 20px;
+  }
+  
+  .ask-advisor {
+    padding-top: 20px;
+  }
 
 @media(max-width:768px) {
   .partners {
-    padding: 100px 0px 600px 0px;
+    padding: 100px 0px 0px 0px;
   }
 
   .header-partners {
     font-size: calc(60px + 0.390625vw);
-   padding: 40px 0px 40px 80px; 
+   padding: 40px 0px 40px 35px; 
    overflow-x: hidden;
   }
 
   .ask {
-    padding: 120px 0px 0px 50px;
+    padding: 0px 0px 0px 50px;
   }
   
   .lexant {
-    padding: 240px 0px 0px 50px;
+   
+    padding: 0px 0px 0px 50px;
   }
   
   .lino-sonego {
-    padding: 360px 0px 0px 50px;
+    padding: 0px 0px 0px 50px;
   }
   
   .oies {
-    padding: 480px 0px 0px 50px;
-  }
+    padding: 0px 0px 0px 50px;
+  } 
   
   .proodos {
-    padding: 600px 0px 0px 50px;
+    padding: 0px 0px 0px 50px;
   }
+  
+  .ask-advisor {
+    padding: 0px 0px 0px 50px;
+  }
+
 } 
 
 @media(min-width:768px) and (max-width:992px) {
   .partners {
-    padding: 100px 0px 600px 0px;
+    padding: 100px 0px 0px 0px;
   }
 
   .header-partners {
     font-size: calc(60px + 0.390625vw);
-    padding: 40px 0px 40px 430px;
+    padding: 40px 0px 40px 300px;
   }
 
   .ask {
-    padding: 120px 0px 0px 50px;
+    padding: 0px 0px 0px 100px;
   }
   
   .lexant {
-    padding: 240px 0px 0px 50px;
+   
+    padding: 0px 0px 0px 100px;
   }
   
   .lino-sonego {
-    padding: 360px 0px 0px 50px;
+    padding: 0px 0px 0px 100px;
   }
   
   .oies {
-    padding: 480px 0px 0px 50px;
-  }
+    padding: 0px 0px 0px 100px;
+  } 
   
   .proodos {
-    padding: 600px 0px 0px 50px;
+    padding: 0px 0px 0px 100px;
+  }
+  
+  .ask-advisor {
+    padding: 0px 0px 0px 100px;
   }
   } 
 
 @media(min-width:992px) and (max-width:1200px) {
+  .partners {
+    padding: 100px 0px 50px 0px;
+  }
+
+  .header-partners {
+    font-size: calc(60px + 0.390625vw);
+    padding: 40px 0px 40px 450px;    
+  }
+
+  .ask {
+    padding: 0px 0px 0px 0px;
+  }
   
+  .lexant {
+   
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .lino-sonego {
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .oies {
+    padding: 0px 0px 0px 0px;
+    overflow-x: hidden;
+  } 
+  
+  .proodos {
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .ask-advisor {
+    padding: 0px 0px 0px 0px;
+  }
+
 }
 
 @media(min-width:1200px) and (max-width:1500px) {
-  
+  .partners {
+    padding: 100px 0px 50px 0px;
+  }
+
+  .header-partners {
+    font-size: calc(60px + 0.390625vw);
+    padding: 40px 0px 40px 450px;
+  }
+  .oies {
+    overflow-x: hidden;
+  }
+
 }

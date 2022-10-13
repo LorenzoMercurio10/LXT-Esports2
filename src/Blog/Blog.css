@@ -15,7 +15,7 @@
 
 .blog-background {
     background-image: url(../../public/img/sfondo_about.jpg);
-    padding: 35px 50px 0px 0px;
+    padding: 0px 50px 0px 0px;
     background-size: contain;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .articles {
-    padding: 150px 0px 100px 50px;
+    padding: 100px 0px 100px 50px;
 }
 
 .header {

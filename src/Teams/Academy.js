@@ -5,7 +5,7 @@ function About() {
     <>
         <section id="academy">
             <div className="academy-background">
-                <div className="col-xs-6 col-md-8 academy-text">
+                    <div className="col-xs-6 col-md-8 academy-text">
                     <h1 className="academy-header"><a href="https://www.askadvisory.it/corsi-formazione-ask/" className="link-ask" target="_blank">ACADEMY ASK</a></h1>
                     <p>LXT Esports, grazie alla piattaforma formativa <span className="name-ask">Academy ASK</span>, studia e realizza pubblicazioni, corsi ed eventi formativi esclusivamente orientati  a far accrescere le conoscenze, le competenze e le abilità dei gamers e di tutti  i soggetti, (coach, manager e imprenditori).</p>
                     <p>Grazie all’esperienza maturata dai docenti e dai professionisti di <span className="name-ask">Academy ASK</span>, il team, con i propri  gamers sarà, si impegna  a divulgare e sensibilizzare il mercato degli e.sports sulla evoluzione del quadro normativo e sui temi di sostenibilità e prevenzione  come quelli del  cyber bullismo, del match fixing, della privacy, della ludopatia  e della non corretta  alimentazione.</p>   

@@ -10,12 +10,12 @@
 
 .about-background {
     background-image: url(../../public/img/sfondo_about.jpg);
-    padding: 35px 50px 100px 0px;
+    padding: 15px 50px 20px 0px;
     background-size: contain;
   }
   
   .about-text {
-    padding: 180px 200px 50px 136px;
+    padding: 150px 0px 50px 136px;
     font-family: "Cobe", sans-serif;
     font-size: calc(17px + 0.390625vw);
     color: white;
