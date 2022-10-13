@@ -47,7 +47,7 @@
     } 
     @media(max-width:768px) {
       .academy-text {
-        padding: 200px 10px 85px 68px;
+        padding: 125px 10px 55px 68px;
         font-size: calc(17px + 0.390625vw);
         color: white;
       } 

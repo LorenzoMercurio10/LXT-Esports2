@@ -22,10 +22,11 @@
 .description {
     font-family: "Cobe-light", sans-serif;
     color: whitesmoke;
+    font-size: calc(11px + 0.390625vw);
 }
 
 .articles {
-    padding: 100px 0px 100px 50px;
+    padding: 100px 0px 100px 136px;
 }
 
 .header {
@@ -39,10 +40,16 @@
 .singolo {
     text-decoration: none;
     color: white;
-    font-size: calc(32px + 0.390625vw);
+    font-size: calc(26px + 0.390625vw);
     font-family: "Cobe-bold", sans-serif;
 }
 
 .singolo:hover {
   color: #9f0020;
+}
+
+@media(max-width:768px) {
+  .articles {
+    padding: 50px 0px 50px 70px;
+  }
 }
