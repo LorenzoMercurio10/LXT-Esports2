@@ -166,7 +166,7 @@
 
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-    padding: 40px 0px 40px 675px;
+    padding: 40px 0px 40px 645px;
   }
   .oies {
     overflow-x: hidden;
@@ -176,7 +176,7 @@
 @media(min-width:1500px) and (max-width:1900px) {
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-    padding: 0px 0px 40px 800px;
+    padding: 0px 0px 40px 665px;
   }
   .oies {
     overflow-x: hidden;
