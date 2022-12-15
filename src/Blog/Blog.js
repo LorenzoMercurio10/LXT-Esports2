@@ -15,7 +15,7 @@ function Blog() {
                     </div>
                     <div className="col-xs-12 col-md-4">
                         <p className="description">News - 6 Ottobre 2022</p>
-                        <h1><a className="singolo" href="https://www.lexant.it/it/consulenza-e-servizi-le-imprese/e-sports/" target="_blank">Lexant: partner legale e formativo di LXT Esport</a></h1>
+                        <h1><a className="singolo" href="https://www.lexant.it/it/consulenza-e-servizi-le-imprese/e-sports/" target="_blank">Lexant: partner legale e formativo di LXT Esports</a></h1>
                         <p className="description">LXT Esports si avvale, in ogni sua divisione, del supporto legale e fiscale di Lexant</p>
                     </div>
                     <div className="col-xs-12 col-md-4">
