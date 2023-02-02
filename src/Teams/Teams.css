@@ -11,8 +11,7 @@
 .teams-block {
     background-image: url(../../public/img/sfondo_team.jpg); 
     padding: 100px 100px 50px 100px;
-    background-size: contain;
-    background-position: center;
+    background-size: cover;
   
   }
   
@@ -49,7 +48,7 @@
   }
 
   .card-logo {
-    padding: 100px 0px 120px 150px;
+    padding: 100px 0px 60px 150px;
   }
   
   @media(max-width:768px) {

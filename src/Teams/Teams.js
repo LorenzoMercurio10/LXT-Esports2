@@ -11,7 +11,7 @@ function Teams() {
                             <Nav className="justify-content-center">
                                 <Nav.Item>
                                     <Nav.Link className="team-fifa">
-                                            <img className="foto-white-fifa" src="img/fifa_white.png"  alt="fotobiancafifa" />
+                                            <img className="foto-white-fifa" src="img/fifa_nero.png"  alt="fotobiancafifa" />
                                     </Nav.Link>
                                 </Nav.Item>
                             </Nav>
@@ -42,11 +42,14 @@ function Teams() {
                             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                                 <img className="player2-fifa" src="img/storari.jpg" alt="player-2" width="275" height="275"></img>
                                 <div className="nick-player1-fifa">
-                                    <span className="name-player1-fifa">Storari</span>
+                                    <span className="name-player1-fifa">Storari30</span>
                                     <span className="role-player1-fifa">Player</span>
                                     <div className="socials-player1-fifa">
                                         <Nav.Link href="https://www.instagram.com/storari30/" target="_blank" className="player-instagram">
                                             <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
+                                        </Nav.Link>
+                                        <Nav.Link href="https://www.twitch.tv/storari30" target="_blank" className="twitch">
+                                            <img src="img/twitch.png" alt="twitch" height="23" width="25"></img>
                                         </Nav.Link>
                                         <Nav.Link href="https://twitter.com/Storari30" target="_blank" className="player-twitch">
                                             <img src="img/twitter.png" alt="twitch" height="23" width="27"></img>

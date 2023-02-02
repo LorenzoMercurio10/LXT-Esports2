@@ -9,13 +9,13 @@
   }
 
   .partners {
-    background-image: url(../../public/img/sfondo_about.jpg); 
+    background-image: url(../../public/img/sfondo_team.jpg); 
     padding: 100px 0px 100px 0px;
-    background-size: contain;
     color: white;
     font-family: "Cobe-bold", sans-serif;
     background-position: center;
     margin: 0px 0px 0px 0px;
+    background-size: cover;
   }
 
   .header-partners {

@@ -9,10 +9,9 @@
   }
   
   .academy-background {
-      background-image: url(../../public/img/sfondo_team.jpg);
+      background-image: url(../../public/img/sfondo_about.jpg);
       padding: 35px 50px 100px 0px;
       background-size: contain;
-      background-size: cover;
     }
 
   .name-ask {
