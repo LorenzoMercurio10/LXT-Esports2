@@ -52,13 +52,10 @@ function Staff() {
                                 <span className="name-player1-fifa">Vincenzo Cipolla</span>
                                 <span className="role-player1-fifa">Fifa Coach</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://ww.instagram.com/ggilbe__/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/_vincenzocipolla_/?igshid=1kfk18j413lll" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://ww.twitch.tv/ggilbe__" target="_blank" className="twitch">
-                                        <img src="img/twitch.png" alt="twitch" height="23" width="25"></img>
-                                    </Nav.Link>
-                                    <Nav.Link href="https://twtter.com/GGilbe_" target="_blank" className="tiktok">
+                                    <Nav.Link href="https://twitter.com/VincenzoCFifa" target="_blank" className="tiktok">
                                         <img src="img/twitter.png" alt="tiktok" height="23" width="27"></img>
                                     </Nav.Link>
                                 </div>

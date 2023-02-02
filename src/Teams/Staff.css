@@ -35,6 +35,24 @@
     border: 4px solid #9f0020;
 }
 
+.no-visibility {
+    display: none;
+    opacity: 0;
+  }
+
+.fifa-players {
+    transition: opacity 1.5s;
+    visibility: visible;
+    opacity: 1;
+}
+
+.rocket-league-players {
+    transition: opacity 1.5s;
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
 @media(max-width:768px) {
     .staff-word {
         margin: 0px 0px 0px 42px;

@@ -10,7 +10,7 @@
 
 .teams-block {
     background-image: url(../../public/img/sfondo_team.jpg); 
-    padding: 100px 100px 50px 100px;
+    padding: 100px 100px 100px 100px;
     background-size: cover;
   
   }
@@ -48,7 +48,8 @@
   }
 
   .card-logo {
-    padding: 100px 0px 60px 150px;
+    padding: 100px 0px 20px 150px;
+    justify-content: center;
   }
   
   @media(max-width:768px) {
@@ -137,3 +138,390 @@
   .player-instagram {
     padding-right: 15px;
   }
+
+  .foto-fifa-white {
+    position: relative;
+    bottom: 45px;
+    left: 15px;
+  }
+
+  .foto-valorant-nera {
+    position: relative;
+    bottom: 44px;
+    left: 16px;
+  }
+/*
+
+.rocket-league-players {
+  transition: opacity 1.5s;
+  visibility: visible;
+  opacity: 1;
+}
+
+.no-visibility {
+  display: none;
+  opacity: 0;
+}
+
+.fifa-players {
+  transition: opacity 1.5s;
+  visibility: visible;
+  opacity: 1;
+}
+
+.team-header {
+  font-size: calc(65px + 0.390625vw);
+  font-weight: 1000;
+  text-align: center;
+  color: #00bf55;;
+}
+
+.foto-white-fifa {
+  padding: 0px 20px 0px 0px;
+}
+
+.card3-4 {
+  padding: 0px 300px 60px 463px;
+}
+
+.foto-green-fifa {
+  position: relative;
+  bottom: 36px;
+}
+
+.foto-verde-rocket-league {
+  position: relative;
+  bottom: 73px;
+  left: 20px;
+}
+
+.foto-bianca-rocket-league {
+  padding: 0px 0px 0px 20px;
+}
+
+.card-logo {
+  padding: 100px 0px 120px 330px;
+}
+
+.card-logo-fifa {
+  padding: 100px 200px 120px 310px;
+}
+
+@media(max-width:768px) {
+  .card-logo {
+    padding: 60px 0px 0px 70px;
+    overflow-x: hidden;
+  }
+
+  .card3-4 {
+    padding: 50px 0px 0px 10px; 
+    overflow-x: hidden;
+  }
+
+  .teams-nav {
+    font-family: 'Montserrat';
+    color: white;
+    padding: 36px 0px 0px 0px;
+  }
+
+  .teams-block {
+    padding: 150px 0px 100px 0px;
+  }
+
+  .card-logo-fifa {
+    padding: 100px 0px 0px 70px;
+    overflow-x: hidden;
+  }
+  .card-logo-rocket {
+    overflow-x: hidden;
+  }
+} 
+
+@media(min-width:768px) and (max-width:992px) {
+  .card-logo {
+    padding: 100px 0px 120px 60px;
+  }
+  .card3-4 {
+    padding: 50px 0px 0px 10px; 
+  }
+} 
+
+@media(min-width:992px) and (max-width:1200px) {
+  .card-logo {
+    padding: 100px 0px 120px 60px;
+  }
+  .card3-4 {
+    padding: 50px 0px 0px 10px; 
+  }
+}
+
+@media(min-width:1200px) and (max-width:1500px) {
+  .card-logo {
+    padding: 30px 0px 60px 190px;
+  }
+  .card3-4 {
+    padding: 50px 0px 60px 160px; 
+  }
+  .card-logo-fifa {
+    padding: 100px 0px 0px 210px;
+    overflow-x: hidden;
+  }
+}
+
+@media(min-width:1500px) and (max-width:1800px) {
+  .card-logo {
+    padding: 30px 0px 60px 210px;
+  }
+  .card3-4 {
+    padding: 30px 0px 60px 170px; 
+  }
+  .card-logo-fifa {
+    padding: 100px 0px 75px 210px;
+    overflow-x: hidden;
+  }
+
+  .teams-nav {
+    font-family: 'Montserrat';
+    color: white;
+    padding: 0px 0px 0px 10px;
+  }
+}
+
+
+.card-logo-rocket {
+  padding-left: 100px;
+  padding-bottom: 20px;
+}
+
+.player1-fifa {
+  border: 4px solid #00bf55;
+}
+
+.player2-fifa {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.player1-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.player2-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.player3-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.player4-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.name-player1-fifa {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player1-fifa {
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  color: #00bf55;
+  font-weight: 600;
+}
+
+.name-player2-fifa {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player2-fifa {
+  color: #00bf55;
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  font-weight: 600;
+}
+
+.real-name-player1-fifa {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.real-name-player2-fifa {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.socials-player1-fifa {
+  display: flex;
+  padding-top: 5px
+}
+
+.player-instagram {
+  padding-right: 20px;
+}
+
+.player-twitter {
+  padding-right: 20px;
+}
+
+.player-twitch {
+  padding-right: 20px;
+}
+
+.player1-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.player2-rocket-league {
+  display: flex;
+  border: 4px solid #00bf55;
+}
+
+.name-player1-rocket-league {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player1-rocket-league {
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  color: #00bf55;
+  font-weight: 600;
+}
+
+.name-player2-rocket-league {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player2-rocket-league {
+  color: #00bf55;
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  font-weight: 600;
+}
+
+.real-name-player1-rocket-league {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.real-name-player2-rocket-league {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.real-name-player3-rocket-league {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.name-player3-rocket-league {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player3-rocket-league {
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  color: #00bf55;
+  font-weight: 600;
+}
+
+.name-player4-rocket-league {
+  top: 365px;
+  display: flex;
+  font-size: 32px;
+  font-family: 'Montserrat';
+  color: #00bf55;
+  font-weight: bold;
+}
+
+.role-player4-rocket-league {
+  color: #00bf55;
+  font-family: 'Montserrat';
+  top: 383px;
+  left: 210px;
+  font-weight: 600;
+}
+
+.real-name-player4-rocket-league {
+  top: 410px;
+  display: flex;
+  font-size: 27px;
+  font-family: 'Montserrat';
+  color: white;
+  font-weight: lighter;
+}
+
+.socials-player1-rocket-league {
+  display: flex;
+  padding-top: 5px
+}
+
+.socials-player2-rocket-league {
+  display: flex;
+  padding-top: 5px
+}
+
+.socials-player3-rocket-league {
+  display: flex;
+  padding-top: 5px;
+}
+
+.socials-player4-rocket-league {
+  display: flex;
+  padding-top: 5px;
+}
+ */
