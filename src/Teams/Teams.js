@@ -40,15 +40,15 @@ function Teams() {
                                 </div>
                             </div>
                             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                                <img className="player2-fifa" src="img/cipo_picc.jpg" alt="player-2" width="275" height="275"></img>
+                                <img className="player2-fifa" src="img/storari.jpg" alt="player-2" width="275" height="275"></img>
                                 <div className="nick-player1-fifa">
-                                    <span className="name-player1-fifa">Vincenzo Cipolla</span>
-                                    <span className="role-player1-fifa">Coach</span>
+                                    <span className="name-player1-fifa">Storari</span>
+                                    <span className="role-player1-fifa">Player</span>
                                     <div className="socials-player1-fifa">
-                                        <Nav.Link href="https://www.instagram.com/_vincenzocipolla_/" target="_blank" className="player-instagram">
+                                        <Nav.Link href="https://www.instagram.com/storari30/" target="_blank" className="player-instagram">
                                             <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                         </Nav.Link>
-                                        <Nav.Link href="https://twitter.com/VincenzoCFifa" target="_blank" className="player-twitch">
+                                        <Nav.Link href="https://twitter.com/Storari30" target="_blank" className="player-twitch">
                                             <img src="img/twitter.png" alt="twitch" height="23" width="27"></img>
                                         </Nav.Link>
                                     </div>
