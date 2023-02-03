@@ -52,6 +52,16 @@
     justify-content: center;
   }
   
+  .valorant-card {
+    position: relative;
+    bottom: 35px;
+  }
+
+  .valorant-card2 {
+    position: relative;
+    bottom: 80px;
+  }
+
   @media(max-width:768px) {
     .teams-block
     {
@@ -132,7 +142,7 @@
   
   .socials-player1-fifa {
     display: flex;
-    padding-top: 5px
+    padding-top: 5px;
   }
   
   .player-instagram {
@@ -150,6 +160,10 @@
     bottom: 44px;
     left: 16px;
   }
+
+.player-twitch {
+  padding-right: 15px;
+}
 /*
 
 .rocket-league-players {

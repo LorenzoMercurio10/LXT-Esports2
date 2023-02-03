@@ -89,103 +89,103 @@ function Teams() {
                     </div>
                 </article>
                 <article className={valorant ? 'valorant-players' : 'no-visibility'}>
-                    <div className="row justify-content-center fifa-card">
+                    <div className="row justify-content-center valorant-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player1-fifa" src="img/jett.png" alt="player-1" width="275" height="275"></img>
+                            <img className="player1-fifa" src="img/giu.png" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Giu</span>
                                 <span className="role-player1-fifa">Duelist</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://www.instagram.com/crazy_fat_gamer/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/giuvlr/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://twitter.com/CRAZYFATGAMER" target="_blank" className="twitter">
+                                    <Nav.Link href="https://twitter.com/GiuVLR" target="_blank" className="twitter">
                                         <img src="img/twitter.png" alt="twitter" height="23" width="27"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.twitch.tv/crazyfatgamer" target="_blank" className="twitch">
+                                    <Nav.Link href="https://www.twitch.tv/giuvlr" target="_blank" className="twitch">
                                         <img src="img/twitch.png" alt="twitch" height="23" width="23"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.tiktok.com/@crazyfatgamer" target="_blank" className="tiktok">
+                                    <Nav.Link href="https://www.tiktok.com/@giuvlr" target="_blank" className="tiktok">
                                         <img src="img/tiktok.png" alt="tiktok" height="23" width="23"></img>
                                     </Nav.Link>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player2-fifa" src="img/astra.png" alt="player-2" width="275" height="275"></img>
+                            <img className="player2-fifa" src="img/effy.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Effy</span>
                                 <span className="role-player1-fifa">Controller & IGL</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://www.instagram.com/storari30/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/seffyraa/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.twitch.tv/storari30" target="_blank" className="twitch">
+                                    <Nav.Link href="https://twitter.com/Seffyraa" target="_blank" className="player-twitch">
+                                        <img src="img/twitter.png" alt="twitch" height="23" width="27"></img>
+                                    </Nav.Link>
+                                    <Nav.Link href="https://www.twitch.tv/seffyra" target="_blank" className="twitch">
                                         <img src="img/twitch.png" alt="twitch" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://twitter.com/Storari30" target="_blank" className="player-twitch">
-                                        <img src="img/twitter.png" alt="twitch" height="23" width="27"></img>
+                                    <Nav.Link href="https://www.tiktok.com/@seffyraa" target="_blank" className="tiktok">
+                                        <img src="img/tiktok.png" alt="tiktok" height="23" width="23"></img>
                                     </Nav.Link>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player2-fifa" src="img/kayo.jpg" alt="player-2" width="275" height="275"></img>
+                            <img className="player2-fifa" src="img/kayo.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Regi</span>
                                 <span className="role-player1-fifa">Flex</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://www.instagram.com/ggilbe__/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/reginew_/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.twitch.tv/ggilbe__" target="_blank" className="twitch">
+                                    <Nav.Link href="https://www.twitch.tv/hungryregi" target="_blank" className="twitch">
                                         <img src="img/twitch.png" alt="twitch" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://twitter.com/GGilbe_" target="_blank" className="tiktok">
+                                    <Nav.Link href="https://twitter.com/nevermindRegi" target="_blank" className="tiktok">
                                         <img src="img/twitter.png" alt="tiktok" height="23" width="27"></img>
                                     </Nav.Link>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="row justify-content-center fifa-card">    
+                    <div className="row justify-content-center valorant-card2">    
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <img className="player1-fifa" src="img/killjoy.jpg" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Aranel</span>
                                 <span className="role-player1-fifa">Support</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://www.instagram.com/crazy_fat_gamer/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/saralippoliss/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://twitter.com/CRAZYFATGAMER" target="_blank" className="twitter">
+                                    <Nav.Link href="https://twitter.com/Aranel_VAL" target="_blank" className="twitter">
                                         <img src="img/twitter.png" alt="twitter" height="23" width="27"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.twitch.tv/crazyfatgamer" target="_blank" className="twitch">
+                                    <Nav.Link href="https://www.twitch.tv/aranel_s" target="_blank" className="twitch">
                                         <img src="img/twitch.png" alt="twitch" height="23" width="23"></img>
-                                    </Nav.Link>
-                                    <Nav.Link href="https://www.tiktok.com/@crazyfatgamer" target="_blank" className="tiktok">
-                                        <img src="img/tiktok.png" alt="tiktok" height="23" width="23"></img>
                                     </Nav.Link>
                                 </div>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player1-fifa" src="img/jett.png" alt="player-1" width="275" height="275"></img>
+                            <img className="player1-fifa" src="img/raze.png" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Valyyrian</span>
                                 <span className="role-player1-fifa">Flex</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://www.instagram.com/crazy_fat_gamer/" target="_blank" className="player-instagram">
+                                    <Nav.Link href="https://www.instagram.com/valyyrian/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://twitter.com/CRAZYFATGAMER" target="_blank" className="twitter">
+                                    <Nav.Link href="https://twitter.com/valyyrian" target="_blank" className="twitter">
                                         <img src="img/twitter.png" alt="twitter" height="23" width="27"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.twitch.tv/crazyfatgamer" target="_blank" className="twitch">
+                                    <Nav.Link href="https://www.twitch.tv/valyyrian" target="_blank" className="twitch">
                                         <img src="img/twitch.png" alt="twitch" height="23" width="23"></img>
                                     </Nav.Link>
-                                    <Nav.Link href="https://www.tiktok.com/@crazyfatgamer" target="_blank" className="tiktok">
+                                    <Nav.Link href="https://www.tiktok.com/@valyyrian" target="_blank" className="tiktok">
                                         <img src="img/tiktok.png" alt="tiktok" height="23" width="23"></img>
                                     </Nav.Link>
                                 </div>
