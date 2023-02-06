@@ -153,7 +153,7 @@ function Teams() {
                     </div>
                     <div className="row justify-content-center valorant-card2">    
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player1-fifa" src="img/killjoy.jpg" alt="player-1" width="275" height="275"></img>
+                            <img className="player1-fifa" src="img/aranel.png" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Aranel</span>
                                 <span className="role-player1-fifa">Support</span>
