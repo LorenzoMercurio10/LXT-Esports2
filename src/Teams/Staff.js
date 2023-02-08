@@ -64,7 +64,7 @@ function Staff() {
                     </div>
                     <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="staff1" src="img/omino_stilizzato.png" alt="player-1" width="275" height="275" />
+                            <img className="staff1" src="img/zhevor.png" alt="player-1" width="275" height="275" />
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Zhevorr</span>
                                 <span className="role-player1-fifa">Valorant Coach</span>

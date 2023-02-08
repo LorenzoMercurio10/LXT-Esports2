@@ -133,7 +133,7 @@ function Teams() {
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player2-fifa" src="img/kayo.png" alt="player-2" width="275" height="275"></img>
+                            <img className="player2-fifa" src="img/regi.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Regi</span>
                                 <span className="role-player1-fifa">Flex</span>
@@ -171,7 +171,7 @@ function Teams() {
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="player1-fifa" src="img/raze.png" alt="player-1" width="275" height="275"></img>
+                            <img className="player1-fifa" src="img/valyyrian.png" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Valyyrian</span>
                                 <span className="role-player1-fifa">Flex</span>
