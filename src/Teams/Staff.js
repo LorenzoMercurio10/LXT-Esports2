@@ -84,7 +84,7 @@ function Staff() {
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <img className="staff2" src="img/omino_stilizzato.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Nome Psychologist</span>
+                                <span className="name-player1-fifa">Psychologist</span>
                                 <span className="role-player1-fifa">Psychologist</span>
                                 <div className="socials-player1-fifa">
                                     <Nav.Link href="https://wwwinsagram.com/storari30/" target="_blank" className="player-instagram">
@@ -99,7 +99,7 @@ function Staff() {
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <img className="staff2" src="img/omino_stilizzato.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Nome Nutritionist</span>
+                                <span className="name-player1-fifa">Nutritionist</span>
                                 <span className="role-player1-fifa">Nutritionist</span>
                                 <div className="socials-player1-fifa">
                                     <Nav.Link href="https://ww.instagram.com/ggilbe__/" target="_blank" className="player-instagram">
