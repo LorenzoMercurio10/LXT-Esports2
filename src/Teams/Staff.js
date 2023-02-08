@@ -11,7 +11,7 @@ function Staff() {
                 <article className='staffer'>                    
                     <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="staff1" src="img/mileto.jpg" alt="player-1" width="275" height="275" />
+                            <img className="staff1" src="img/mileto.png" alt="player-1" width="275" height="275" />
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Andrea Mileto</span>
                                 <span className="role-player1-fifa">Team Manager</span>
@@ -32,7 +32,7 @@ function Staff() {
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="staff2" src="img/omino_stilizzato.png" alt="player-2" width="275" height="275"></img>
+                            <img className="staff2" src="img/vittorio.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Vittorio Cicatiello</span>
                                 <span className="role-player1-fifa">Team Manager</span>
@@ -47,7 +47,7 @@ function Staff() {
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <img className="staff2" src="img/omino_stilizzato.png" alt="player-2" width="275" height="275"></img>
+                            <img className="staff2" src="img/cipolla.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Vincenzo Cipolla</span>
                                 <span className="role-player1-fifa">Fifa Coach</span>
