@@ -136,7 +136,7 @@ function Teams() {
                             <img className="player2-fifa" src="img/regi.png" alt="player-2" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Regi</span>
-                                <span className="role-player1-fifa">Flex</span>
+                                <span className="role-player1-fifa">Initiator</span>
                                 <div className="socials-player1-fifa">
                                     <Nav.Link href="https://www.instagram.com/reginew_/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
@@ -156,7 +156,7 @@ function Teams() {
                             <img className="player1-fifa" src="img/aranel.png" alt="player-1" width="275" height="275"></img>
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Aranel</span>
-                                <span className="role-player1-fifa">Support</span>
+                                <span className="role-player1-fifa">Sentinel</span>
                                 <div className="socials-player1-fifa">
                                     <Nav.Link href="https://www.instagram.com/saralippoliss/" target="_blank" className="player-instagram">
                                         <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
