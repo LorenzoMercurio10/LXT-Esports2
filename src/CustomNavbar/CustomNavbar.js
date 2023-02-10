@@ -23,10 +23,10 @@ function CustomNavbar() {
               <Nav.Link href="#blog" className="blog">BLOG</Nav.Link>
               <NavDropdown title="LXT"  className="teams" id="nav-dropdown-teams">
                 <NavDropdown.Item href="#teams" eventKey="4.1">TEAMS</NavDropdown.Item>
-                <NavDropdown.Item href="#staff" eventKey="4.2">STAFF</NavDropdown.Item>
+                {/*<NavDropdown.Item href="#staff" eventKey="4.2">STAFF</NavDropdown.Item>*/}
                 <NavDropdown.Item href="#partner" eventKey="4.3">PARTNERS</NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="#academy" className="partner">ACADEMY</Nav.Link>
+              <Nav.Link href="#academy" className="partner">FORMAZIONE</Nav.Link>
               <Nav.Link href="#contact" className="contact">CONTACT</Nav.Link>
           </Nav>
           <Nav>

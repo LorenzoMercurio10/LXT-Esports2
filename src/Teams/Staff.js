@@ -87,12 +87,6 @@ function Staff() {
                                 <span className="name-player1-fifa">Psychologist</span>
                                 <span className="role-player1-fifa">Psychologist</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://wwwinsagram.com/storari30/" target="_blank" className="player-instagram">
-                                        <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
-                                    </Nav.Link>
-                                    <Nav.Link href="https://twiter.com/Storari30" target="_blank" className="player-twitch">
-                                        <img src="img/twitter.png" alt="twitch" height="23" width="27"></img>
-                                    </Nav.Link>
                                 </div>
                             </div>
                         </div>
@@ -102,15 +96,7 @@ function Staff() {
                                 <span className="name-player1-fifa">Nutritionist</span>
                                 <span className="role-player1-fifa">Nutritionist</span>
                                 <div className="socials-player1-fifa">
-                                    <Nav.Link href="https://ww.instagram.com/ggilbe__/" target="_blank" className="player-instagram">
-                                        <img src="img/ig.png" alt="instagram" height="23" width="25"></img>
-                                    </Nav.Link>
-                                    <Nav.Link href="https://ww.twitch.tv/ggilbe__" target="_blank" className="twitch">
-                                        <img src="img/twitch.png" alt="twitch" height="23" width="25"></img>
-                                    </Nav.Link>
-                                    <Nav.Link href="https://twtter.com/GGilbe_" target="_blank" className="tiktok">
-                                        <img src="img/twitter.png" alt="tiktok" height="23" width="27"></img>
-                                    </Nav.Link>
+                                    
                                 </div>
                             </div>
                         </div>
