@@ -8,7 +8,7 @@ function Benefit() {
                 <div className="benefit-text">
                     <h1 className="benefit-header">LXT Esports è un team BENEFIT</h1>
                     <p>
-                    LXT Esports oltre ad essere un esports team è un asset strategico di ASK Advisory per perseguire le finalità di “beneficio comunque”, operando anche nel mondo del gaming in modo responsabile, sostenibile e trasparente nei confronti di persone, comunità, territori e ambiente, beni e attività culturali e sociali, enti e associazioni e altri portatori di interesse.</p>  
+                    LXT Esports oltre ad essere un esports team è un asset strategico di ASK Advisory per perseguire le finalità di “beneficio comune”, operando anche nel mondo del gaming in modo responsabile, sostenibile e trasparente nei confronti di persone, comunità, territori e ambiente, beni e attività culturali e sociali, enti e associazioni e altri portatori di interesse.</p>  
                     <p>
                     Promuove, nello svolgimento della propria attività professionale, tra i propri partner, clienti ed in generale nel pubblico, la conoscenza e la diffusione di modelli di business e processi economici responsabili; valorizza e promuove una adeguata cultura finanziaria e di gestione del rischio tra i propri clienti e nel proprio network.</p>
                     <p>

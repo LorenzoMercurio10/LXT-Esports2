@@ -20,7 +20,7 @@
     color: white;
   }
   
-  .rocket-league-players {
+  .valorant-players{
     transition: opacity 1.5s;
     visibility: visible;
     opacity: 1;
@@ -28,7 +28,6 @@
   
   .no-visibility {
     display: none;
-    opacity: 0;
   }
   
   .fifa-players {
@@ -43,8 +42,9 @@
     text-align: center;
   }
   
-  .foto-white-fifa {
-    padding: 0px 20px 0px 0px;
+  .foto-black {
+    position: relative;
+    bottom: 36px;
   }
 
   .card-logo {
@@ -147,12 +147,6 @@
   
   .player-instagram {
     padding-right: 15px;
-  }
-
-  .foto-fifa-white {
-    position: relative;
-    bottom: 45px;
-    left: 15px;
   }
 
   .foto-valorant-nera {

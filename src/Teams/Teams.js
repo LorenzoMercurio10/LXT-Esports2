@@ -14,10 +14,12 @@ function Teams() {
                     <p className="team-header">TEAMS</p>
                         <Nav className="justify-content-center">
                             <Nav.Item>
-                                <Nav.Link className="team-fifa" onClick={() => setValorant(false)}>
-                                        <img className="foto-black" src="img/fifa_nero.png"  alt="fotonerafifa" />
+                                <Nav.Link> 
+                                    <div className="team-fifa" onClick={() => setValorant(false)}>
+                                        <img className="foto-fifa-white" src="img/fifa_white.png"  alt="fotonerafifa" />
+                                    </div>
+                                    {!valorant && <img className="foto-black" src="img/fifa_nero.png" alt="fotobiancafifa" />}
                                 </Nav.Link>
-                                {valorant && <img className="foto-fifa-white" src="img/fifa_white.png" alt="fotobiancafifa" />}
                             </Nav.Item>
                             <Nav.Item>
                                 <Nav.Link className="team-valorant" onClick={() => setValorant(true)}>
