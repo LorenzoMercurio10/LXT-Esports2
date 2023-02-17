@@ -86,6 +86,12 @@
     .foto-white-fifa {
       padding: 0px 20px 0px 31px;
     }
+    .fifa-card {
+      padding-left: 0px;
+    }
+    .valorant-card {
+      padding-left: 0px;
+    }
   } 
   
   @media(min-width:768px) and (max-width:992px) {
