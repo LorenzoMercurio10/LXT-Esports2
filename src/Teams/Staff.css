@@ -11,13 +11,29 @@
 .staff-background {
     background-image: url(../../public/img/sfondo_about.jpg); 
     padding: 100px 100px 50px 100px;
-    background-size: contain;
+    background-size: cover;
     background-position: center;  
 }
 
 .staff-header {
     font-family: "Cobe-bold", sans-serif;
     color: white;
+}
+
+.nick-staff {
+    display: flex;
+    font-size: 32px;
+    font-family: "Cobe", sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.link-staff {
+    text-decoration: none;
+}
+
+.nick-staff:hover {
+    color: #9f0020;
 }
 
 .staff-word {
@@ -55,11 +71,11 @@
 
 @media(max-width:768px) {
     .staff-word {
-        margin: 0px 0px 0px 42px;
+        margin: 0px 3px 0px 0px;
     }
     .staff-background {
         background-image: url(../../public/img/sfondo_about.jpg); 
-        padding: 100px 100px 50px 52px;
+        padding: 100px 50px 50px 52px;
         background-size: contain;
         background-position: center;  
     }

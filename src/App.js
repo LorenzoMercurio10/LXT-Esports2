@@ -20,6 +20,7 @@ function App() {
       <Benefit />
       <Blog />
       <Teams />
+      <Staff />
       <Partner />
       <Academy />
       <Contact />
