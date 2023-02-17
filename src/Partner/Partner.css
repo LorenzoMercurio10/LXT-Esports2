@@ -55,17 +55,17 @@
 
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-   padding: 40px 0px 40px 80px; 
+   padding: 40px 0px 40px 0px; 
    overflow-x: hidden;
   }
 
   .ask {
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 37px;
   }
   
   .lexant {
    
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 37px;
   }
   
   .lino-sonego {
@@ -73,11 +73,11 @@
   }
   
   .oies {
-    padding: 0px 0px 40px 50px;
+    padding: 0px 0px 40px 37px;
   } 
   
   .proodos {
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 37px;
   }
   
   .ask-advisor {

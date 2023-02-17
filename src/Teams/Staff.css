@@ -75,7 +75,7 @@
     }
     .staff-background {
         background-image: url(../../public/img/sfondo_about.jpg); 
-        padding: 100px 50px 50px 52px;
+        padding: 100px 50px 50px 40px;
         background-size: contain;
         background-position: center;  
     }
