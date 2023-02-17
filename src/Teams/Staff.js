@@ -7,34 +7,26 @@ function Staff() {
             <div className="staff-background">
                 <div className="staff-header">
                     <p className="staff-word">STAFF</p>
-                <article className='staffer'>                    
+                <article className='staffer'>     
                     <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <div className="nick-player1-fifa justify-content-center">
+                            <div className="nick-player1-fifa">
                                 <a className="link-staff" href="https://www.linkedin.com/in/roberto-giancarlo-daverio-72256a8/" target="_blank">
                                     <span className="nick-staff">Roberto Giancarlo Daverio</span>
                                 </a>
                                 <span className="role-player1-fifa">Presidente</span>
                             </div>
                         </div>
+                    </div>               
+                    <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <div className="nick-player1-fifa">
+                            <div className="nick-player1-fifa justify-content-center">
                                 <a className="link-staff" href="https://www.linkedin.com/in/vittorio-cicatiello-a05077180/" target="_blank">
                                     <span className="nick-staff">Vittorio Cicatiello</span>
+                                    <span className="role-player1-fifa">Team Manager</span>
                                 </a>
-                                <span className="role-player1-fifa">Team Manager</span>
                             </div>
                         </div>
-                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
-                            <div className="nick-player1-fifa">
-                                <a className="link-staff" href="https://www.linkedin.com/in/simona-cardillo-49a1396/" target="_blank">
-                                    <span className="nick-staff">Simona Cardillo</span>
-                                </a>
-                                <span className="role-player1-fifa">Responsabile Impatto</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
                                 <span className="name-player1-fifa">Vincenzo Cipolla</span>
@@ -47,12 +39,30 @@ function Staff() {
                                 <span className="role-player1-fifa">Valorant Coach</span>
                             </div>
                         </div>
+                    </div>
+                    <div className="row justify-content-center fifa-card">
+                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
+                            <div className="nick-player1-fifa">
+                                <a className="link-staff" href="https://www.linkedin.com/in/andrea-mileto-71174311a/" target="_blank">
+                                    <span className="nick-staff">Andrea Mileto</span>
+                                </a>
+                                <span className="role-player1-fifa">Responsabile Area Legale</span>
+                            </div>
+                        </div>
+                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
+                            <div className="nick-player1-fifa">
+                            <a className="link-staff" href="https://www.linkedin.com/in/simona-cardillo-49a1396/" target="_blank">
+                                    <span className="nick-staff">Simona Cardillo</span>
+                                </a>
+                                <span className="role-player1-fifa">Responsabile Impatto</span>
+                            </div>
+                        </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
                                 <a className="link-staff" href="https://www.linkedin.com/in/lucaguerrasio/" target="_blank">
                                     <span className="nick-staff">Luca Guerrasio</span>
                                 </a>
-                                <span className="role-player1-fifa">Responsabile formazione</span>
+                                <span className="role-player1-fifa">Responsabile Formazione</span>
                             </div>
                         </div>
                     </div>

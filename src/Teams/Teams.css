@@ -24,6 +24,8 @@
     transition: opacity 1.5s;
     visibility: visible;
     opacity: 1;
+    padding-left: 57px;
+    padding-top: 34px;
   }
   
   .no-visibility {
@@ -47,11 +49,14 @@
     bottom: 36px;
   }
 
+.fifa-card {
+  padding-left: 57px;
+}
   .card-logo {
     padding: 100px 0px 20px 150px;
     justify-content: center;
   }
-  
+
   .valorant-card {
     position: relative;
     bottom: 35px;

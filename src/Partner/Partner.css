@@ -20,7 +20,8 @@
 
   .header-partners {
     font-size: calc(46px + 0.390625vw);
-    padding: 10px 0px 40px 800px; 
+    text-align: center;
+    padding-bottom: 50px;
   }
 
   .ask {
