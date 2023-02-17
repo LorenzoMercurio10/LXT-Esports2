@@ -11,7 +11,9 @@ function Staff() {
                     <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa justify-content-center">
-                                <span className="name-player1-fifa">Roberto Giancarlo Daverio</span>
+                                <a className="link-staff" href="https://www.linkedin.com/in/roberto-giancarlo-daverio-72256a8/" target="_blank">
+                                    <span className="nick-staff">Roberto Giancarlo Daverio</span>
+                                </a>
                                 <span className="role-player1-fifa">Presidente</span>
                             </div>
                         </div>
@@ -25,7 +27,9 @@ function Staff() {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Simona Cardillo</span>
+                                <a className="link-staff" href="https://www.linkedin.com/in/simona-cardillo-49a1396/" target="_blank">
+                                    <span className="nick-staff">Simona Cardillo</span>
+                                </a>
                                 <span className="role-player1-fifa">Responsabile Impatto</span>
                             </div>
                         </div>
@@ -45,7 +49,9 @@ function Staff() {
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Luca Guerrasio</span>
+                                <a className="link-staff" href="https://www.linkedin.com/in/lucaguerrasio/" target="_blank">
+                                    <span className="nick-staff">Luca Guerrasio</span>
+                                </a>
                                 <span className="role-player1-fifa">Responsabile formazione</span>
                             </div>
                         </div>
@@ -53,19 +59,25 @@ function Staff() {
                     <div className="row justify-content-center fifa-card">
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Stefania Straniero</span>
+                                <a className="link-staff" href="https://www.instagram.com/psicologa_stefania.straniero/" target="_blank">
+                                    <span className="nick-staff">Stefania Straniero</span>
+                                </a>
                                 <span className="role-player1-fifa">Psicologa</span>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Giacomo Astrua</span>
+                                <a className="link-staff" href="https://www.instagram.com/noritura_/" target="_blank">
+                                    <span className="nick-staff">Giacomo Astrua</span>
+                                </a>
                                 <span className="role-player1-fifa">Nutrizionista</span>
                             </div>
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4 card-logo">
                             <div className="nick-player1-fifa">
-                                <span className="name-player1-fifa">Floridiana Ventrella</span>
+                                <a className="link-staff" href="https://www.instagram.com/floridianaventrella/" target="_blank">
+                                    <span className="nick-staff">Floridiana Ventrella</span>
+                                </a>
                                 <span className="role-player1-fifa">Consulente Post-Carriera</span>
                             </div>
                         </div>
