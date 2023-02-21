@@ -49,9 +49,7 @@
     bottom: 36px;
   }
 
-.fifa-card {
-  padding-left: 57px;
-}
+
   .card-logo {
     padding: 100px 0px 20px 150px;
     justify-content: center;
@@ -96,7 +94,7 @@
   
   @media(min-width:768px) and (max-width:992px) {
     .card-logo {
-      padding: 100px 0px 0px 200px;
+      padding: 100px 0px 0px 50px;
     }
     .card3-4 {
       padding: 50px 0px 0px 0px; 
@@ -105,19 +103,19 @@
   
   @media(min-width:992px) and (max-width:1200px) {
     .card-logo {
-      padding: 100px 0px 120px 100px;
+      padding: 100px 0px 120px 66px;
     }
     .card3-4 {
-      padding: 50px 10px 120px 100px 
+      padding: 50px 10px 120px 66px;
     }
   }
   
   @media(min-width:1200px) and (max-width:1500px) {
     .card-logo {
-      padding: 100px 0px 120px 100px;
+      padding: 100px 0px 120px 66px;
     }
     .card3-4 {
-      padding: 50px 10px 120px 100px 
+      padding: 50px 10px 120px 66px;
     }
   }
   
@@ -168,6 +166,15 @@
 
 .player-twitch {
   padding-right: 15px;
+}
+
+@media(min-width:1500px) and (max-width:1900px) {
+  .card-logo {
+    padding: 100px 0px 120px 66px;
+  }
+  .card3-4 {
+    padding: 50px 10px 120px 66px;
+  }
 }
 /*
 

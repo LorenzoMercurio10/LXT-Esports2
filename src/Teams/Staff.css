@@ -71,7 +71,7 @@
 
 @media(max-width:768px) {
     .staff-word {
-        margin: 0px 3px 0px 0px;
+        margin: 0px 0px 0px 0px;
     }
     .staff-background {
         background-image: url(../../public/img/sfondo_about.jpg); 
