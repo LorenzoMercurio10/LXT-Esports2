@@ -91,10 +91,10 @@
     padding: 100px 0px 0px 0px;
   }
 
-  .header-partners {
+ /* .header-partners {
     font-size: calc(46px + 0.390625vw);
     padding: 40px 0px 40px 300px;
-  }
+  } */
 
   .ask {
     padding: 0px 0px 0px 100px;
@@ -127,10 +127,10 @@
     padding: 100px 0px 50px 0px;
   }
 
-  .header-partners {
+ /* .header-partners {
     font-size: calc(46px + 0.390625vw);
     padding: 40px 0px 40px 450px;    
-  }
+  } */
 
   .ask {
     padding: 0px 0px 0px 0px;
@@ -165,21 +165,26 @@
     padding: 100px 0px 50px 0px;
   }
 
-  .header-partners {
-    font-size: calc(46px + 0.390625vw);
-    padding: 40px 0px 40px 645px;
-  }
+  
   .oies {
     overflow-x: hidden;
   }
 
 }
 @media(min-width:1500px) and (max-width:1900px) {
-  .header-partners {
-    font-size: calc(46px + 0.390625vw);
-    padding: 0px 0px 40px 665px;
-  }
   .oies {
     overflow-x: hidden;
   }
 }
+
+
+/*   .header-partners {
+    font-size: calc(46px + 0.390625vw);
+    padding: 0px 0px 40px 665px;
+  } */
+
+
+ /* .header-partners {
+    font-size: calc(46px + 0.390625vw);
+    padding: 40px 0px 40px 645px;
+  }*/
